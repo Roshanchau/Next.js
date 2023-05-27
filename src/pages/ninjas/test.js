@@ -1,3 +1,5 @@
+//now the route for this is /ninjas/test.
+
 const Test = () => {
   return (
     <div>
